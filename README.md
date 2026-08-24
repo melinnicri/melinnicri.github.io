@@ -65,5 +65,5 @@ Actualmente en transición hacia Data Science con proyectos prácticos. Busco op
 ## 📫 Contacto
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/melinnicri)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amelia-cristina-herrera-briceno)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amelia-cristina-herrera-briceno-31b98515/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:melinnicri@gmail.com)
